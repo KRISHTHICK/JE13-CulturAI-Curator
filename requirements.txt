@@ -1,0 +1,20 @@
+streamlit
+Pillow
+ollama
+faiss-cpu
+langchain
+sentence-transformers
+
+# # 🏛️ CulturAI Curator – Explore the World's Culture with AI
+
+# Explore art, monuments, and traditions using AI. Powered by Python, Streamlit, and Ollama (local LLM). No venv required.
+
+# ## 🛠 How to Run
+
+# ```bash
+# git clone https://github.com/yourname/CulturAI-Curator
+# cd CulturAI-Curator
+# pip install -r requirements.txt
+# ollama serve
+# ollama run phi3
+# streamlit run app.py
